@@ -1,5 +1,5 @@
 ##grflangid 0x01
 STR_GRF_NAME :Random English Town Names
 STR_GRF_DESC :Generates random town names that look like they wouldn't be out of place in the sleepy English countryside. Uses data from Wikipedia and the Random English Village Name Generator.
-STR_GRF_URL  :none
+STR_GRF_URL  :https://github.com/Ketsuban/random-english-town-names
 STR_STYLES   :Random English
